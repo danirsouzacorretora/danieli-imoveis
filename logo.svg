@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" fill="none">
+  <!-- D: barra superior, arco direito, barra inferior -->
+  <line x1="72" y1="62" x2="105" y2="62" stroke="#1C1C1A" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M105 62 Q148 62 148 115 Q148 168 105 168" stroke="#1C1C1A" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+  <line x1="72" y1="168" x2="105" y2="168" stroke="#1C1C1A" stroke-width="3.2" stroke-linecap="round"/>
+  <line x1="72" y1="62" x2="72" y2="168" stroke="#1C1C1A" stroke-width="3.2" stroke-linecap="round"/>
+
+  <!-- S: elegante, fluindo pelo centro do D -->
+  <path d="M130 88 Q130 72 113 72 Q94 72 94 88 Q94 104 120 110 Q146 116 146 134 Q146 152 124 152 Q102 152 102 136"
+        stroke="#1C1C1A" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+</svg>
